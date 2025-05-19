@@ -1,0 +1,101 @@
+.footer {
+    background-color: #1C1E53;
+    padding: 100px 0 0;
+}
+
+.foot-one p {
+    padding: 20px 0 0 0;
+    color: #F4F6FC;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}
+.foot-two{
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+}
+.foot-contact{
+    margin-top: 80px !important;
+    background-color:#FCD980 ;
+    padding: 20px 70px;
+    display: flex;
+}
+.con-one h2{
+    padding: 0 80px 0 32px;
+    color: #282938;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+}
+.con-one a{
+    padding: 0 80px 0 32px;
+    color: #282938;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+}
+
+.con-two h2{
+    color: #282938;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+}
+.con-two a{
+    color: #282938;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+}
+.icon-main{
+    padding-top: 70px;
+}
+.ami{
+    color: #FFFFFF;
+}
+.tumi{
+    color: #FFFFFF;
+}
+.nsd{
+    color: #FFFFFF;
+}
+.kori{
+    color: #FFFFFF;
+}
+.link-foot{
+    padding: 20px 0;
+    background-color: #FFFFFF;
+}
+.link-one a{
+    color: #282938;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}
+.link-two{
+    text-align: end;
+}
+.link-two a{
+    padding: 0 17px;
+    color: #282938;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+
+
+
+

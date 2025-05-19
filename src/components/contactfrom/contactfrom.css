@@ -1,0 +1,100 @@
+.contactfrom {
+    padding: 0 0 100px 0;
+}
+
+.cfrom-ome {
+    background: url(../../assets/wamen.png) no-repeat;
+    height: 691px;
+}
+
+.one-fo {
+    width: 100%;
+    height: 100%;
+    background-color: #1C1E5380;
+    padding: 88px 114px 20px 64px;
+}
+
+.one-fo h4 {
+    color: #FFFFFF;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    font-family: "Poppins", sans-serif;
+}
+
+.one-fo p {
+    padding-top: 40px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}
+
+.send-main {
+    background-color: #1C1E53;
+    width: 100%;
+    height: 691px;
+    padding: 71px 100px 10px 65px;
+}
+
+.send-main h2 {
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    font-family: "Poppins", sans-serif;
+}
+
+.send-main p {
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}
+
+.send-imput input {
+    color: #d73c2b !important;
+    background: none;
+    padding: 20px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    border: 2px solid #FFFFFF0D !important;
+}
+
+.send-imput input::placeholder {
+    color: #FFFFFF;
+}
+
+.from-btn button {
+    padding: 16px 174px;
+    background-color: #FCD980;
+    border-radius: 42px;
+    -webkit-border-radius: 42px;
+    -moz-border-radius: 42px;
+    -ms-border-radius: 42px;
+    -o-border-radius: 42px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}
+.from-btn{
+    text-align: center;
+}
+.from-btn a{
+    color:#F4F6FC ;
+    display: inline-block;
+    padding-top: 40px;
+     font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}
+
+
+

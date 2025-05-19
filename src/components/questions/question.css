@@ -1,0 +1,25 @@
+.question{
+    padding: 100px 0 ;
+    background-color:#ffffff ;
+}
+.question-one{
+    padding: 0 83px 0 0;
+}
+.question-one h3{
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    font-family: "Poppins", sans-serif;
+}
+.question-one a{
+    padding-top: 35px;
+    color:#2405F2 ;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+}
+.much-one{
+    padding: 30px 0 0 0;
+}
+

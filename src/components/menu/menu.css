@@ -1,0 +1,26 @@
+.menu a {
+    color: #FFFFFF !important;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: 16px;
+    padding: 0 10px  !important;
+}
+.header{
+    background-color:#1C1E53;
+    padding: 10px 0 !important;
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+
+}
+.contact a{
+    border: 2px solid #F4F6FC33;
+    padding: 10px 30px !important;
+    border-radius: 41px;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+}

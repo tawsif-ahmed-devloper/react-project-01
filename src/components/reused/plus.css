@@ -1,0 +1,51 @@
+.plus-main h2{
+    padding: 0 0 9px 0;
+    color: #2405F2;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+    font-family: "Poppins", sans-serif;
+}
+.plus-main h2 span{
+    padding: 0 0 0 40px;
+    color: #282938;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    font-family: "Poppins", sans-serif;
+}
+.plus-main{
+    position: relative;
+    border-bottom: 2px solid #ECECF1;
+}
+.plus-main p{
+    padding: 0 0 0 70px;
+    color: #282938;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+}
+.icon{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

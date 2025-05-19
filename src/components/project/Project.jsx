@@ -4,7 +4,7 @@ import "./project.css"
 import { FaArrowRightLong } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
 import cardone from "../../assets/Card one.png"
-import cardtwo from "../../assets/Card two.png"
+import cardtwo from "../../assets/card two.png"
 import cardthree from "../../assets/Card three.png"
 import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 
